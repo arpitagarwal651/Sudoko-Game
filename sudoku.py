@@ -14,7 +14,7 @@ def find_next_empty(puzzle):
     return None, None  # if no spaces in the puzzle are empty (-1)
 
 def is_valid(puzzle, guess, row, col):
-    # figures out whether the guess at the row/col of the puzzle is a valid guess
+    # Figures out whether the guess at the row/col of the puzzle is a valid guess
     # returns True or False
 
     # for a guess to be valid, then we need to follow the sudoku rules
