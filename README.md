@@ -4,7 +4,7 @@ Sudoku solver using backtracking
 
 Basically in sudoku, we want to be able to solve a sudoku puzzle given an input like this, which represents a sudoku board:
 
-[[x00, x01, x02, x03... x08],
+##[[x00, x01, x02, x03... x08],
  [x10, x11, x12, x13... x18],
  ...
  [x80, x81, x82, x83... x88]]
